@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "868610380060",
+    "firebase_url": "https://pengabdiancctv.firebaseio.com",
+    "project_id": "pengabdiancctv",
+    "storage_bucket": "pengabdiancctv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868610380060:android:56d9770e39322cda1dead9",
+        "android_client_info": {
+          "package_name": "com.cctv.pekertiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868610380060-mah9toicp6k9n6krcf6bdr49nv79teqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cctv.pekertiapps",
+            "certificate_hash": "fedfc15a23f8814e7a126663a375bcbc8b1b1eea"
+          }
+        },
+        {
+          "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU82faY40sbaxO7ER7LfsVsgYzV3uXz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868610380060:android:250166f13c26007b1dead9",
+        "android_client_info": {
+          "package_name": "com.example.pekertiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868610380060-6bde4j7juns44abhg957htoe7nfnquol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pekertiapps",
+            "certificate_hash": "fedfc15a23f8814e7a126663a375bcbc8b1b1eea"
+          }
+        },
+        {
+          "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU82faY40sbaxO7ER7LfsVsgYzV3uXz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868610380060:android:0a68dbcaa51e5f7a1dead9",
+        "android_client_info": {
+          "package_name": "com.pengabdian.aplikasipekerti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868610380060-ecbbv36f1shson1ttollh2m323od4bt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pengabdian.aplikasipekerti",
+            "certificate_hash": "fedfc15a23f8814e7a126663a375bcbc8b1b1eea"
+          }
+        },
+        {
+          "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU82faY40sbaxO7ER7LfsVsgYzV3uXz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868610380060-1hf46th15f76e13jf77kkeijn2b6ld8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
